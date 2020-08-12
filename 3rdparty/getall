@@ -186,11 +186,11 @@ download('PETSc','http://ftp.mcs.anl.gov/pub/petsc/release-snapshots/petsc-lite-
 	'http://ftp.mcs.anl.gov/pub/petsc/release-snapshots/',
 	'petsc-lite-3.13.4.tar.gz',
 	'83bac0d95c487d264cdfc4940e0c41dd');
-	
-download('htool','https://github.com/htool-ddm/htool/archive/29262c7884a43d1d935cd0e7fd7f2ff1bb242e6b.zip',
+
+download('htool','https://github.com/htool-ddm/htool/archive/8f9dee889d5a62925ba599a76a63687a0d4e772e.zip',
 		'https://github.com/htool-ddm/',
 		'htool.zip',
-		'e82b60967d793fb0878b090b74e1d212');
+		'41d6398314ee222b39667be1d29259dd');
 
 	
 download('hpddm','https://github.com/hpddm/hpddm/archive/ce6ce80b62e9bc71efedf8b9cb6ffb00dfd6e44e.zip',
